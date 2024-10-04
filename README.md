@@ -1,6 +1,6 @@
 # Getting Started - Cheat Sheet
 In most of the videos we use the commands below to
-1. Clone this project: `git clone https://github.com/KoostaPl/walmart-scrapper.git`
+1. Clone this project: `git clone https://github.com/KoostaPl/WalmartScraper.git`
 2. Activate the Python Virtual Environment: `.venv/Scripts/activate`
 3. Install Scrapy using pip: `pip install scrapy`
 4. Running the scrapy project: `scrapy crawl walmart` 
